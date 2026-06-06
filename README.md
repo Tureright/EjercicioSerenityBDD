@@ -15,8 +15,6 @@ agregar dos productos al carrito → visualizar el carrito → completar el form
 3. [Estructura del proyecto](#estructura-del-proyecto)
 4. [Cómo ejecutar las pruebas](#cómo-ejecutar-las-pruebas)
 5. [Cómo funciona todo — paso a paso](#cómo-funciona-todo--paso-a-paso)
-6. [El patrón Screenplay explicado](#el-patrón-screenplay-explicado)
-7. [Leer el reporte de Serenity](#leer-el-reporte-de-serenity)
 
 ---
 
